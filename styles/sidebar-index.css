@@ -1,0 +1,18 @@
+/* Sidebar */
+body {
+
+  margin: 15px auto;
+  border: 1px solid black;
+}
+
+#hobby-list, #commissions {
+  width: 18%; /* Adjust the width as needed */
+  height: 350px;
+  float: left;
+  border-right: 2px solid darkgrey;
+}
+
+#borderbox {
+  width: 76%; /* Adjust the width as needed */
+  float: left;
+}

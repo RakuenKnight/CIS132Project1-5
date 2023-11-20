@@ -1,0 +1,38 @@
+/* Apply styles to the main content area */
+main {
+  width: 70%;
+  margin: 0 auto;
+  padding: 20px; 
+}
+
+/* Style the logo container */
+.logo-container {
+  width: 250px; 
+  height: 250px;
+
+  box-shadow: 5px 5px 5px #888888; 
+  border: 2px solid #ef9c00; 
+  text-align: center;
+  
+}
+
+main img {
+  height: 250px; 
+  width: 250px;
+}
+
+/* Style the school info aside */
+.school-info {
+  
+
+  padding: 10%;
+  border: 2px solid #ef9c00;
+  box-shadow: 5px 5px 5px #888888; 
+  padding-left: 15%;
+
+}
+
+/* Clear floating elements */
+.clear {
+  clear: both;
+}
